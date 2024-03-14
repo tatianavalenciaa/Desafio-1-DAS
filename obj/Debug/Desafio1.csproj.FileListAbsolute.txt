@@ -1,0 +1,13 @@
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\bin\Debug\Desafio1.exe.config
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\bin\Debug\Desafio1.exe
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\bin\Debug\Desafio1.pdb
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\obj\Debug\Desafio1.csproj.AssemblyReference.cache
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\obj\Debug\Desafio1.FormBienvenida.resources
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\obj\Debug\Desafio1.Properties.Resources.resources
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\obj\Debug\Desafio1.csproj.GenerateResource.cache
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\obj\Debug\Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\obj\Debug\Desafio1.exe
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\obj\Debug\Desafio1.pdb
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\obj\Debug\Desafio1.Formularios.FormLogin.resources
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\obj\Debug\Desafio1.Formularios.FormPrincipal.resources
+C:\Users\Tatiana\Desktop\UDB\DAS\01. TRABAJO UNIDAD\Desafio1\obj\Debug\Desafio1.Formularios.FormCrearUsuario.resources
